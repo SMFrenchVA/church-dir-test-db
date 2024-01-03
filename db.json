@@ -4,7 +4,7 @@
    "id": "35",
    "lastName": "Gleichner",
    "firstName": "Ramon",
-   "mStatus": "Non-Communing",
+   "mStatus": "Attendee",
    "officer": "N/A",
    "baptized": "~June 2018",
    "publicProfOfFaith": "",
@@ -15,14 +15,14 @@
    "pAddrCity": "Johntown",
    "pAddrState": "Minnesota",
    "pAddrZip": "58795",
-   "mAddrStreet": "same",
-   "mAddrCity": "same",
-   "mAddrState": "same",
-   "mAddrZip": "same",
-   "email": "Lance.Bogisich@linwood.us",
-   "cPh": "(770)533-1345 x912",
-   "hPh": "(703)042-0617 x803",
-   "Notes": "Ref TPC Session Motion #18-1 that passed 5/19/2018."
+   "mAddrStreet": "PO Box 123",
+   "mAddrCity": "Jamestown",
+   "mAddrState": "VA",
+   "mAddrZip": "59785",
+   "email": "rg@linwood.us",
+   "cPh": "(770)533-1345",
+   "hPh": "(703)042-0617",
+   "Notes": "Been attending forever."
  },
  {
    "id": "36",
@@ -43,10 +43,10 @@
    "mAddrCity": "same",
    "mAddrState": "same",
    "mAddrZip": "same",
-   "email": "Eveline.Pacocha@pierre.biz",
-   "cPh": "139-834-0006 x81402",
+   "email": "Paolo.Bergstrom@pierre.biz",
+   "cPh": "139-834-0006",
    "hPh": "(519)769-3943",
-   "Notes": "Ref TPC Session Motion #18-1 that passed 5/19/2018."
+   "Notes": "Ref Session minutes from 5/19/1942."
  },
  {
    "id": "37",
@@ -375,13 +375,13 @@
    "pAddrCity": "Lake Abbey",
    "pAddrState": "Idaho",
    "pAddrZip": "32089",
-   "mAddrStreet": "same",
-   "mAddrCity": "same",
-   "mAddrState": "same",
-   "mAddrZip": "same",
+   "mAddrStreet": "PO Box 9876",
+   "mAddrCity": "Lake Abbey",
+   "mAddrState": "Idaho",
+   "mAddrZip": "32089",
    "email": "Adele.Bashirian@raquel.ca",
-   "cPh": "(002)127-6084 x857",
-   "hPh": "1-209-332-3452 x328",
+   "cPh": "(002)127-6084",
+   "hPh": "1-209-332-3452",
    "Notes": ""
  }
 ]
